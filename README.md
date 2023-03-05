@@ -1,2 +1,2 @@
 # Time
-this repository includes classes and functions regarding to time 
+this repository includes classes and functions regarding the time and time showing
